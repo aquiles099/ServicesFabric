@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Aquiles\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Aquiles\\.nuget\\packages"
+    ]
+  }
+}
